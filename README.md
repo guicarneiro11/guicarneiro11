@@ -23,6 +23,8 @@ Desenvolvedor apaixonado por tecnologia, focado em desenvolvimento mobile e back
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -35,8 +37,10 @@ Desenvolvedor apaixonado por tecnologia, focado em desenvolvimento mobile e back
 ## 🎯 Principais Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=AnglePro&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/AnglePro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=AnglePro-API&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/AnglePro-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=WeatherApp&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/WeatherApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=weather-api&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/weather-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Weather-API&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/weather-api)
+
 
 
 ## 🌱 Atualmente Estudando
