@@ -42,8 +42,8 @@ Desenvolvedor apaixonado por tecnologia, focado em desenvolvimento mobile e back
 
 ## 🎯 Principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=AnglePro&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/AnglePro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=AnglePro-API&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/AnglePro-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Avaly&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/Avaly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Avaly-API&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/Avaly-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=WeatherApp&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/WeatherApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Weather-API&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/weather-api)
 
