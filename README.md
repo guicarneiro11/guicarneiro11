@@ -69,7 +69,7 @@ Desenvolvedor apaixonado por tecnologia, focado em desenvolvimento mobile e back
 - Serviços em nuvem
 - Algoritmos
 
-## 💻 Experiência Profissional
+## 💻 Experiência Profissional & Projetos Relevantes
 
 - 📱 Projetos pessoais em Android (Kotlin / Java) - Avaly & Weather App
 - 📱 Projetos pessoais em Back End (Kotlin / Java) - Avaly API & Weather API
