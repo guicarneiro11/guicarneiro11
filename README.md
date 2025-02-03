@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-A passionate tech developer focused on mobile development and backend. Currently working with Android (Kotlin/Java) and REST APIs (Spring Boot/Ktor).
+A passionate tech developer focused on mobile development and backend. Currently working with Android (Kotlin/Java) and REST APIs (Spring Boot/Ktor)
 
 # 🚀 Technologies & Tools
 
