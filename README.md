@@ -71,6 +71,7 @@ A passionate tech developer focused on mobile development and backend. Currently
 
 ## 💻 Professional Experience & Relevant Projects
 
+- 📱 Bass Android App (Kotlin) - Freelance project - Real Bass clone with custom audio engine and visual feedback
 - 📱 Personal Android Projects (Kotlin / Java) - Avaly & Weather App
 - 📱 Personal Backend Projects (Kotlin / Java) - Avaly API & Weather API
 - 👨‍💻 WordPress Freelancing (PHP + MySQL) - Host migration + theme & database adjustments
