@@ -63,7 +63,6 @@ A passionate tech developer focused on mobile development, currently working wit
 
 - Android Development (Kotlin + Java)
 - Architectures and SOLID
-- Spring Boot and Ktor
 - Relational and Non-relational Databases
 - Cloud Services
 - Algorithms
