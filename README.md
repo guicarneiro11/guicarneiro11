@@ -47,8 +47,11 @@ A passionate tech developer focused on mobile development, currently working wit
 - Algorithms
 
 ## 💻 Professional Experience & Relevant Projects
+• Freelance:
+- 📱Bass Emulator: A bass guitar emulator for Android, inspired by Real Bass. Features precise interactivity, realistic string vibration animations, and multi-touch support.
+- 📱Mega Bass: I developed an Android app in Kotlin and XML that integrates a native C++ audio engine with a custom bass interface, implementing kit selection, recording capabilities, and multi-touch interaction.
 
-- 📱 Bass Android App (Kotlin) - Freelance project - Real Bass clone with custom audio engine and visual feedback
+• Projects:
 - 📱 Personal Android Projects (Kotlin / Java) - Avaly & Weather App
 - 📱 Personal Backend Projects (Kotlin / Java) - Avaly API & Weather API
 - 👨‍💻 WordPress Freelancing (PHP + MySQL) - Host migration + theme & database adjustments
