@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-A passionate tech developer focused on mobile development, currently working with Android (Kotlin/Java).
+A passionate android developer, currently working on freelance projects and looking for my first opportunity as a junior while learning new technologies and improving my skills with several personal projects.
 # 🚀 Technologies & Tools
 
 ## 📱 Mobile Development (Android)
