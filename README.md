@@ -34,9 +34,9 @@ A passionate android developer, currently working on freelance projects and look
 ## 🎯 Main Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Avaly&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/Avaly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Avaly-API&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/Avaly-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=LTA-Score&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/LTA-Score)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=HoopReel&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/HoopReel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=WeatherApp&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/WeatherApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Weather-API&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/weather-api)
 
 ## 🌱 Currently Studying
 
