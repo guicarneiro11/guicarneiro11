@@ -53,7 +53,7 @@ A passionate android developer, currently working on freelance projects and look
 - 👨‍💻 WordPress Freelancing (PHP + MySQL) - Host migration + theme & database adjustments
 
 • Projects:
-- 📱 Personal Android Projects (Kotlin / Java) - Avaly, HoopReel & Weather Ap
+- 📱 Personal Android Projects (Kotlin / Java) - Avaly, LTA Score, HoopReel & Weather App
 - 📱 Personal Backend Projects (Kotlin / Java) - Avaly API & Weather API
 
 ## 🎓 Education
