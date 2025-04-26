@@ -5,7 +5,8 @@
 
 ## 👨‍💻 About Me
 
-A passionate android developer, currently working on freelance projects and looking for my first opportunity as a junior while learning new technologies and improving my skills with several personal projects.
+Android developer with 2 years of experience in developing native apps published on the Play Store. Proficient in Kotlin and Java, with mastery of Jetpack Compose, MVVM, Clean Architecture and integrations with external APIs. Proven experience in implementing complete end-to-end solutions, from conception to deployment, including backend development with Ktor and Spring Boot. I am looking for an opportunity as an Android Developer to apply my technical experience in the development of scalable and highquality solutions.
+
 # 🚀 Technologies & Tools
 
 ## 📱 Mobile Development (Android)
