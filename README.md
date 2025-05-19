@@ -54,9 +54,8 @@ Android developer with 2 years of experience in developing native apps published
 ## 🌱 Currently Studying
 
 - Android Development (Kotlin + Java)
-- Architectures and SOLID
-- Relational and Non-relational Databases
-- Cloud Services
+- iOS Development (Swift + SwiftUI)
+- Cross-platform development tools (xtool)
 - Algorithms
 
 ## 💻 Professional Experience & Relevant Projects
@@ -68,6 +67,7 @@ Android developer with 2 years of experience in developing native apps published
 • Projects:
 - 📱 Personal Android Projects (Kotlin / Java) - Avaly, LTA Score, HoopReel & Weather App
 - 📱 Personal Backend Projects (Kotlin / Java) - Avaly API & Weather API
+- 📱 Personal iOS Projects (Swift) - Remedios: A persistent medication reminder application with continuous vibration alerts, developed using xtool on Arch Linux
 
 ## 🎓 Education
 
