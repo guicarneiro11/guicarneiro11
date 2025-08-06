@@ -71,6 +71,7 @@ Android developer with 2 years of experience in developing native apps published
 
 ## 💻 Professional Experience & Relevant Projects
 • Freelance:
+- 📱iHngry: Self-service android app for restaurants, built in React Native with a focus on Android app
 - 📱Bass Emulator: A bass guitar emulator for Android, inspired by Real Bass. Features precise interactivity, realistic string vibration animations, and multi-touch support.
 - 📱Mega Bass: I developed an Android app in Kotlin and XML that integrates a native C++ audio engine with a custom bass interface, implementing kit selection, recording capabilities, and multi-touch interaction.
 - 👨‍💻 WordPress Freelancing (PHP + MySQL) - Host migration + theme & database adjustments
