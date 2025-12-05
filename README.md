@@ -51,17 +51,12 @@ Android developer with 2 years of experience in developing native apps published
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=HoopReel&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/HoopReel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=WeatherApp&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/WeatherApp)
 
-## 🌱 Currently Studying
-
-- Android Development (Kotlin + Java)
-- Architectures and SOLID
-- Relational and Non-relational Databases
-- Cloud Services
-- Algorithms
-
 ## 💻 Professional Experience & Relevant Projects
+• Android Developer Junior
+- 🏋️Leal Apps
+
 • Freelance:
-- 📱iHngry: Self-service android app for restaurants, built in React Native with a focus on Android app
+- 📱iHungry: Self-service android app for restaurants, built in React Native with a focus on Android app
 - 📱Bass Emulator: A bass guitar emulator for Android, inspired by Real Bass. Features precise interactivity, realistic string vibration animations, and multi-touch support.
 - 📱Mega Bass: I developed an Android app in Kotlin and XML that integrates a native C++ audio engine with a custom bass interface, implementing kit selection, recording capabilities, and multi-touch interaction.
 - 👨‍💻 WordPress Freelancing (PHP + MySQL) - Host migration + theme & database adjustments
@@ -72,10 +67,8 @@ Android developer with 2 years of experience in developing native apps published
 
 ## 🎓 Education
 
-- 🎓 Physical Therapy - Last semester (On hold)
+- 🎓 Physiotherapy - Last semester (On hold)
 - 🎓 Computer Science - Coming soon (2026)
 
 ## 🏆 Certifications
-
-- 📚 CS50x - Harvard
 - 📚 Introduction to Android Mobile Application Development - [Coursera/Meta]
