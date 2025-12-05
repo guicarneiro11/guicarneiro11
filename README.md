@@ -36,21 +36,6 @@ Android developer with 2 years of experience in developing native apps published
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/guicarneiro11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicarneiro11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarneiro11&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## 🎯 Main Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=Avaly&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/Avaly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=LTA-Score&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/LTA-Score)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=HoopReel&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/HoopReel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicarneiro11&repo=WeatherApp&theme=dracula&cache_seconds=1)](https://github.com/guicarneiro11/WeatherApp)
-
 ## 💻 Professional Experience & Relevant Projects
 • Android Developer Junior
 - 🏋️Leal Apps
