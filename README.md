@@ -36,16 +36,6 @@ Android developer with 2 years of experience in developing native apps published
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📱 Mobile Development (iOS)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![xtool](https://img.shields.io/badge/xtool-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-007396?style=for-the-badge&logo=swift&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![UserNotifications](https://img.shields.io/badge/UserNotifications-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![UserDefaults](https://img.shields.io/badge/UserDefaults-147EFB?style=for-the-badge&logo=apple&logoColor=white)
-
 ## 📊 GitHub Stats
 
 <div align="center">
