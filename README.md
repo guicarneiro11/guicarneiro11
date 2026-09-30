@@ -37,7 +37,7 @@ Android developer with 3+ years of experience in developing native apps publishe
 
 ## 💻 Professional Experience & Relevant Projects
 • Android Developer
-- 🏋️Leal Apps - Gym WP
+- 🏋️Leal Apps - Gym WP (09/2025 - Current)
 
 • Freelance:
 - 📱iHungry: Self-service android app for restaurants, built in React Native with a focus on Android app
