@@ -37,8 +37,8 @@ Android developer with 2 years of experience in developing native apps published
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💻 Professional Experience & Relevant Projects
-• Android Developer Junior
-- 🏋️Leal Apps
+• Android Developer
+- 🏋️Leal Apps - Gym WP
 
 • Freelance:
 - 📱iHungry: Self-service android app for restaurants, built in React Native with a focus on Android app
