@@ -53,7 +53,7 @@ Android developer with 3+ years of experience in developing native apps publishe
 ## 🎓 Education
 
 - 🎓 Physiotherapy - Last semester (On hold)
-- 🎓 Computer Science - Coming soon (2026)
+- 🎓 Computer Science - Coming soon (2027-??)
 
 ## 🏆 Certifications
 - 📚 Introduction to Android Mobile Application Development - [Coursera/Meta]
