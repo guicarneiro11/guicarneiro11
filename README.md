@@ -36,7 +36,7 @@ Android developer with 3+ years of experience in developing native apps publishe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💻 Professional Experience & Relevant Projects
-• Android Developer
+• Android Developer:
 - 🏋️Leal Apps - Gym WP (09/2025 - Current)
 
 • Freelance:
